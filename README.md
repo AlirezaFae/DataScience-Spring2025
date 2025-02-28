@@ -7,7 +7,7 @@
 
 # Course Schedule
 
-| Week | Lectures | Videos/Additional Resources | Assignments | Assignments Related Videos
+| Week | Lectures | Videos/Additional Resources | Assignments | Assignments Related Videos |
 |------|-----|-----|-----|
 | 1 |[Data Science Lifecycle](lectures/Lecture%2001.%20Data%20Science%20Lifecycle.pdf) | [Python for Data Science](https://www.youtube.com/watch?v=WKz5nicREKQ&list=PLdSslhDhrVc7N0XQTfU55RuL1THU2l0B-&pp=gAQB) <br> [Probability & Statistics Review](https://www.youtube.com/watch?v=Lqexyj6h5dQ&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG) <br>  [Python for Data Science NoteBooks](Python%20for%20Data%20Science%20Notebooks)| | |
 | 2 |[Sampling and Statistical Charts](lectures/Lecture%2002.%20Statistical%20Charts.pdf) |[Sampling](https://www.youtube.com/watch?v=koeAIG38Hzc) <br> [Correlation and Causation](https://www.youtube.com/watch?v=WAnHl3Rps2s) <br> [Sampling Strategies](https://www.youtube.com/watch?v=Bji2BfPsu6Q) <br> [Observational vs. Experimental](https://www.youtube.com/watch?v=0D2U_xPl00g) <br> [Numerical Variables Visualization](https://www.youtube.com/watch?v=jzAK4xpwGus) <br> [Shape of Numerical Distributions](https://www.youtube.com/watch?v=tLWm8MGUqds) <br> [Data Transformation](https://www.youtube.com/watch?v=71kkJ2jp7KM) <br> [Categorical Variables Visualization](https://www.youtube.com/watch?v=CGfzEvpRQPQ)| | |
